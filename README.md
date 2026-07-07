@@ -1,4 +1,4 @@
-# Business Process Improvement — Customer Onboarding & Order-to-Cash Analysis
+# Business Process Improvement - Customer Onboarding & Order-to-Cash Analysis
 
 ## Overview
 
@@ -33,7 +33,7 @@ trade compliance screening, proof of delivery management, and collections — re
   finance, and IT functions
 - 7 end-to-end BPMN process maps analysed using the BPTrends scoping framework
 - Five Whys root cause analysis
-- BPM problem classification — design flaws, execution failures, resource gaps
+- BPM problem classification : design flaws, execution failures, resource gaps
 - Technical feasibility consultation with the organisation's M3 and ServiceNow specialist
 - Risk prioritisation using a likelihood-impact matrix
 
@@ -44,7 +44,7 @@ trade compliance screening, proof of delivery management, and collections — re
 - 8 current process problems identified and classified
 - 8 associated process risks prioritised across three tiers
 - 5 root causes identified:
-  - Governance-architecture disconnect — policy exists but is not enforced by systems
+  - Governance-architecture disconnect where policy exists but is not enforced by systems
   - Incentive misalignment sustaining siloed departmental behaviour
   - Organisational prioritisation of revenue booking over documentary control
   - Change management deficiency in post-implementation adoption
@@ -55,7 +55,7 @@ trade compliance screening, proof of delivery management, and collections — re
 ## Recommended Solution
 
 A unified ServiceNow-based customer onboarding portal supported by standard 
-operating procedures and work instructions — confirmed technically feasible 
+operating procedures and work instructions and was confirmed technically feasible 
 through formal IT consultation.
 
 ### Portal capabilities designed:
