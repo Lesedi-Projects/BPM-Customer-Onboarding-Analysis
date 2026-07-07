@@ -27,7 +27,7 @@ trade compliance screening, proof of delivery management, and collections, resul
 - 7 end-to-end BPMN process maps analysed using the BPTrends scoping framework
 - Five Whys root cause analysis
 - BPM problem classification : design flaws, execution failures, resource gaps
-- Technical feasibility consultation with the organisation's M3 and ServiceNow specialist
+- Technical feasibility consultation with the organisation's IT team
 - Risk prioritisation using a likelihood-impact matrix
 
 
