@@ -8,9 +8,6 @@ The study analyses the customer process of a South
 African subsidiary of a multinational organisation 
 (anonymised for confidentiality).
 
-The solution was presented to the organisation's Regional Head of Governance 
-and is currently under active consideration for implementation.
-
 ## The Problem
 
 The organisation experienced recurring process failures across customer onboarding, 
