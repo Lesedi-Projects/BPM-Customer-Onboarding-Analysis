@@ -4,8 +4,8 @@
 
 A full end-to-end business process improvement project conducted as part of an assignment for the BCom Honours in Management Information Systems degree programme (2026).
 
-The study analyses the customer onboarding and Order-to-Cash process of a South 
-African subsidiary of a multinational industrial equipment organisation 
+The study analyses the customer process of a South 
+African subsidiary of a multinational organisation 
 (anonymised for confidentiality).
 
 The solution was presented to the organisation's Regional Head of Governance 
