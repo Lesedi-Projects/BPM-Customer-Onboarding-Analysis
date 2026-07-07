@@ -113,10 +113,8 @@ Mendling et al. (2010) · Kliem (2000)
 
 ## Outcome
 
-Solution presented to the Regional Head of Governance — under active 
-consideration for implementation. Line manager formally commended the work 
-to the Regional Business Controller, describing it as excellent work demonstrating 
-significant engagement across operations.
+Solution presented to the Regional Head of Governance and under active 
+consideration for implementation.
 
 ---
 
