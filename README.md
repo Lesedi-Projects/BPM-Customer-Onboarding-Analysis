@@ -9,9 +9,7 @@ African subsidiary of a multinational organisation
 (anonymised for confidentiality).
 
 The solution was presented to the organisation's Regional Head of Governance 
-and is currently under active consideration for implementation.
-
----
+and is currently under active consideration for implementation.--
 
 ## The Problem
 
@@ -24,7 +22,6 @@ trade compliance screening, proof of delivery management, and collections — re
 - Fragmented document repositories with no single source of truth
 - Siloed departments with no end-to-end process ownership or accountability
 
----
 
 ## Methodology
 
@@ -36,7 +33,6 @@ trade compliance screening, proof of delivery management, and collections — re
 - Technical feasibility consultation with the organisation's M3 and ServiceNow specialist
 - Risk prioritisation using a likelihood-impact matrix
 
----
 
 ## Key Findings
 
@@ -65,7 +61,6 @@ through formal IT consultation.
 - Built-in SLA enforcement at each workflow stage
 - Document upload with format and date validation
 
----
 
 ## Deliverables Produced
 
@@ -82,7 +77,6 @@ through formal IT consultation.
 - Human impact and change management assessment
 - Conclusion and recommendations for implementation
 
----
 
 ## Frameworks and Tools Applied
 
@@ -100,7 +94,6 @@ through formal IT consultation.
 | Power BI | KPI reporting framework |
 | Infor M3 | ERP context and integration |
 
----
 
 ## Academic Sources
 
@@ -109,14 +102,12 @@ Hiatt (2006) · Rosemann & vom Brocke (2015) · Reijers & Liman Mansar (2005) ·
 van der Aalst (2016) · Kääriä & Shamsuzzoha (2024) · Hammer (2010) · 
 Mendling et al. (2010) · Kliem (2000)
 
----
 
 ## Outcome
 
 Solution presented to the Regional Head of Governance and under active 
 consideration for implementation.
 
----
 
 ## Repository Contents
 
@@ -129,7 +120,6 @@ consideration for implementation.
 | Intervention_Mapping_Table.png | Recommended interventions mapped to problems and risks |
 | KPI_Framework.png | 8 KPIs with baselines and targets |
 
----
 
 ## Author
 
