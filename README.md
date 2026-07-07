@@ -9,12 +9,12 @@ African subsidiary of a multinational organisation
 (anonymised for confidentiality).
 
 The solution was presented to the organisation's Regional Head of Governance 
-and is currently under active consideration for implementation.--
+and is currently under active consideration for implementation.
 
 ## The Problem
 
 The organisation experienced recurring process failures across customer onboarding, 
-trade compliance screening, proof of delivery management, and collections — resulting in:
+trade compliance screening, proof of delivery management, and collections, resulting in:
 
 - Documentation rework and screening delays caused by incomplete customer submissions
 - Compliance exposure from commercial pressure to bypass mandatory screening
@@ -44,8 +44,6 @@ trade compliance screening, proof of delivery management, and collections — re
   - Organisational prioritisation of revenue booking over documentary control
   - Change management deficiency in post-implementation adoption
   - Compound external accountability failure across the POD management chain
-
----
 
 ## Recommended Solution
 
