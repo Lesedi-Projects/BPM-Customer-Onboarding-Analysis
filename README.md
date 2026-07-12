@@ -25,10 +25,8 @@ downstream compliance and collections risks. Key issues included:
 
 ## Scope
 This study focused strictly on the **customer application review 
-and onboarding process** — from initial customer inquiry through 
+and onboarding process** from initial customer inquiry through 
 to account activation in the ERP system.
-
----
 
 ## Methodology
 - 9 semi-structured stakeholder interviews across compliance, 
@@ -55,7 +53,7 @@ to account activation in the ERP system.
 
 ## Recommended Solution
 A unified ServiceNow-based customer onboarding portal supported 
-by standard operating procedures and work instructions — confirmed 
+by standard operating procedures and work instructions, confirmed 
 technically feasible through formal IT consultation.
 
 The portal addresses incomplete submissions, unclear 
