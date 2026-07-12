@@ -4,7 +4,7 @@
 
 A full end-to-end business process improvement project conducted as part of an assignment for the BCom Honours in Management Information Systems degree programme (2026).
 
-The study analyses the customer process of a South 
+The project analyses the customer onboarding process of a South 
 African subsidiary of a multinational organisation 
 (anonymised for confidentiality).
 
