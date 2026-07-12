@@ -111,8 +111,8 @@ necessary.
 
 ## Author
 **Lesedi Mahlangu**
-BCom Accounting — University of the Witwatersrand (2024)
-BCom Honours in Management Information Systems — UCT (2026)
+BCom Accounting - University of the Witwatersrand (2024)
+BCom Honours in Management Information Systems - UCT (2026)
 📧 mahlangulesedi34@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/lesedi-mahlangu-13702b22b/)
 🌐 [Portfolio](https://lesedimahlangu.carrd.co/)
