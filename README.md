@@ -7,8 +7,7 @@ BCom Honours in Management Information Systems programme at the
 University of Cape Town (2026).
 
 The project analyses the customer application review and onboarding 
-process of a South African subsidiary of a multinational 
-industrial equipment organisation (anonymised for confidentiality).
+process of a South African subsidiary of a multinational  organisation (anonymised for confidentiality).
 
 ## The Problem
 
@@ -34,7 +33,7 @@ to account activation in the ERP system.
 - 7 end-to-end BPMN 2.0 process maps analysed
 - BPTrends scoping framework applied across 6 categories
 - Five Whys root cause analysis
-- BPM problem classification — design flaws, execution failures, 
+- BPM problem classification namely design flaws, execution failures, 
   and resource and capability gaps
 - Technical feasibility consultation with the organisation's 
   ERP and ServiceNow specialist
