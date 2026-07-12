@@ -5,7 +5,7 @@ for the customer application review and onboarding process.
 
 ## What is a BPMN Diagram?
 BPMN (Business Process Model and Notation) is an international 
-standard for drawing business processes visually — similar to a 
+standard for drawing business processes visually. It is similar to a 
 flowchart but with standardised symbols that allow both business 
 and technical teams to read and understand the same diagram.
 
